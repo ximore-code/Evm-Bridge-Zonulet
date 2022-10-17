@@ -1,1 +1,1 @@
-# -bsc-evm-compatible-bridge-api
+bridge-api
